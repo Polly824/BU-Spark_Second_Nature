@@ -1,7 +1,7 @@
 # Are US Higher-Ed Institutions Actually Reducing Emissions?  
 **Second Nature x UNH Sustainability Institute — BU Spark! / CDS DS539 (Fall 2024)**
 
-**Team:** Pei Liu, Freda Peng, Neveah Zhan, **Polly (Haoyang) Peng**, …  
+**Team:** Pei Liu, Freda Peng, Neveah Zhan, **Polly (Haoyang) Peng**  
 **Client:** Second Nature & Sustainability Institute at the University of New Hampshire  
 **Advisors / PMs:** Abby Gualda, Makayla Tajalle, Sindhuja Kumar  
 **Tech stack:** Python (Colab), Power BI / Tableau, Excel
@@ -101,6 +101,4 @@ Colleges and universities publish **reduction goals** and report **emissions inv
 - Co-authored the **final report & presentation**, presented key findings to the client
 
 ---
-
-## 📂 Repo / Drive Deliverables
 
